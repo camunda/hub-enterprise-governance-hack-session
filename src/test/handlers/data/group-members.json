@@ -1,0 +1,77 @@
+{
+  "group-1": [
+    "person-8",
+    "person-41",
+    "person-49",
+    "person-29",
+    "person-54"
+  ],
+  "group-2": [
+    "person-20",
+    "person-19",
+    "person-59",
+    "person-42",
+    "person-52",
+    "person-30",
+    "person-47"
+  ],
+  "group-3": [
+    "person-14",
+    "person-55",
+    "person-44",
+    "person-18",
+    "person-31",
+    "person-50",
+    "person-49",
+    "person-34",
+    "person-39",
+    "person-20",
+    "person-53"
+  ],
+  "group-4": [
+    "person-42",
+    "person-9",
+    "person-19",
+    "person-58",
+    "person-40"
+  ],
+  "group-5": [
+    "person-13",
+    "person-41",
+    "person-48",
+    "person-53",
+    "person-12",
+    "person-18",
+    "person-23",
+    "person-58",
+    "person-56",
+    "person-7",
+    "person-38",
+    "person-22"
+  ],
+  "group-6": [
+    "person-46",
+    "person-34",
+    "person-44",
+    "person-28",
+    "person-36",
+    "person-22",
+    "person-55",
+    "person-27",
+    "person-48"
+  ],
+  "group-7": [
+    "person-10",
+    "person-17",
+    "person-27",
+    "person-49",
+    "person-8",
+    "person-46",
+    "person-14"
+  ],
+  "group-8": [
+    "person-1",
+    "person-8",
+    "person-9"
+  ]
+}

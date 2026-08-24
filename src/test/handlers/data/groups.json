@@ -1,0 +1,42 @@
+[
+  {
+    "id": "group-1",
+    "name": "Platform Engineering",
+    "memberCount": 5
+  },
+  {
+    "id": "group-2",
+    "name": "Data & Analytics",
+    "memberCount": 7
+  },
+  {
+    "id": "group-3",
+    "name": "Product Design",
+    "memberCount": 11
+  },
+  {
+    "id": "group-4",
+    "name": "Customer Success",
+    "memberCount": 5
+  },
+  {
+    "id": "group-5",
+    "name": "Security & Compliance",
+    "memberCount": 12
+  },
+  {
+    "id": "group-6",
+    "name": "Finance Operations",
+    "memberCount": 9
+  },
+  {
+    "id": "group-7",
+    "name": "Quality Assurance",
+    "memberCount": 7
+  },
+  {
+    "id": "group-8",
+    "name": "External Contractors",
+    "memberCount": 3
+  }
+]
